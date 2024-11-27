@@ -10,7 +10,7 @@ Este es el backend para el proyecto de comercio electrónico, desarrollado con *
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/Victor231840/comercioElectronico2.git
+   git clone https://github.com/Victor231840/comercioElectronico3.git
 
    Navega al directorio del proyecto:
 
